@@ -1,0 +1,20 @@
+[0.707s] Invoking command in '/home/skafee/Documents/cours/framework_robotique/ros2_gazebo/tp_ws/src/gazebo_perso': PYTHONPATH=/home/skafee/Documents/cours/framework_robotique/ros2_gazebo/tp_ws/build/gazebo_perso/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/skafee/Documents/cours/framework_robotique/ros2_gazebo/tp_ws/install/gazebo_perso/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/gazebo_perso build --build-base /home/skafee/Documents/cours/framework_robotique/ros2_gazebo/tp_ws/build/gazebo_perso/build install --record /home/skafee/Documents/cours/framework_robotique/ros2_gazebo/tp_ws/build/gazebo_perso/install.log --single-version-externally-managed install_data
+[0.974s] running egg_info
+[0.976s] writing ../../build/gazebo_perso/gazebo_perso.egg-info/PKG-INFO
+[0.976s] writing dependency_links to ../../build/gazebo_perso/gazebo_perso.egg-info/dependency_links.txt
+[0.977s] writing entry points to ../../build/gazebo_perso/gazebo_perso.egg-info/entry_points.txt
+[0.977s] writing requirements to ../../build/gazebo_perso/gazebo_perso.egg-info/requires.txt
+[0.977s] writing top-level names to ../../build/gazebo_perso/gazebo_perso.egg-info/top_level.txt
+[0.979s] reading manifest file '../../build/gazebo_perso/gazebo_perso.egg-info/SOURCES.txt'
+[0.980s] writing manifest file '../../build/gazebo_perso/gazebo_perso.egg-info/SOURCES.txt'
+[0.980s] running build
+[0.981s] running build_py
+[0.981s] running install
+[0.981s] running install_lib
+[0.983s] running install_data
+[0.983s] copying launch/turtlebot3_world.launch.py -> /home/skafee/Documents/cours/framework_robotique/ros2_gazebo/tp_ws/install/gazebo_perso/share/gazebo_perso/launch
+[0.983s] running install_egg_info
+[0.985s] Copying ../../build/gazebo_perso/gazebo_perso.egg-info to /home/skafee/Documents/cours/framework_robotique/ros2_gazebo/tp_ws/install/gazebo_perso/lib/python3.10/site-packages/gazebo_perso-0.0.0-py3.10.egg-info
+[0.986s] running install_scripts
+[1.007s] writing list of installed files to '/home/skafee/Documents/cours/framework_robotique/ros2_gazebo/tp_ws/build/gazebo_perso/install.log'
+[1.040s] Invoked command in '/home/skafee/Documents/cours/framework_robotique/ros2_gazebo/tp_ws/src/gazebo_perso' returned '0': PYTHONPATH=/home/skafee/Documents/cours/framework_robotique/ros2_gazebo/tp_ws/build/gazebo_perso/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/skafee/Documents/cours/framework_robotique/ros2_gazebo/tp_ws/install/gazebo_perso/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/gazebo_perso build --build-base /home/skafee/Documents/cours/framework_robotique/ros2_gazebo/tp_ws/build/gazebo_perso/build install --record /home/skafee/Documents/cours/framework_robotique/ros2_gazebo/tp_ws/build/gazebo_perso/install.log --single-version-externally-managed install_data
